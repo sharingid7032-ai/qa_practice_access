@@ -5,6 +5,9 @@ __pycache__/
 # pytest가 자동으로 만드는 폴더
 .pytest_cache/
 
+# 엑셀 파일을 열어 둘 때 생기는 임시 파일
+~$*
+
 # Playwright 실행 결과 폴더
 test-results/
 playwright-report/
